@@ -24,4 +24,4 @@ git clone https://github.com/tu-usuario/sitio-web-[tu-nombre].git
 
 
 
- 
+ Actualizo el README con detalles adicionales.
