@@ -25,3 +25,4 @@ git clone https://github.com/tu-usuario/sitio-web-[tu-nombre].git
 
 
  Actualizo el README con detalles adicionales.
+Organize archivos del sitio web en carpetas si es que lo necesita, por lo que vemos ya esta bien estructura y entendible.
